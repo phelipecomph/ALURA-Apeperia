@@ -1,0 +1,7 @@
+{
+    "name": "alura-apeperia",
+    "author": "phelipecomph",
+    "dependencies": {
+      "sass":"^3.7.4"
+    }
+}
