@@ -1,3 +1,6 @@
+$sprite-spacing: 5px; //Espaçamento entre icones no sprite
+@import 'sprite/*.png';
+
 // se o arquivo for .scss não precisa explicitar a extenção
 @import 'helpers/variaveis.scss';
 @import 'helpers/mixins.scss';
